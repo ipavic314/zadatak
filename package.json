@@ -11,5 +11,8 @@
   "description": "",
   "devDependencies": {
     "cypress": "^14.3.0"
+  },
+  "dependencies": {
+    "selekcijskizadatak": "file:"
   }
 }
